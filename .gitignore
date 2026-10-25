@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# état local de lecture
+last_track.json
+# images tierces non redistribuables (fond par défaut = fan art Pink Floyd, logo Apple Music)
+default.jpg
+apple-music.svg
